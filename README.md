@@ -32,7 +32,7 @@
 
 ## 지식공유 (Knowledge Sharings)
 
-내용을 복사해왔습니다. 원보에 업데이트할 내용을 추가합니다.
+내용을 복사해왔습니다. 원보에 업데이트할 내용을 추가합니다.공부 열시히 
 
 - [유튜브 채널](https://www.youtube.com/channel/UCt2wAAXgm87ACiQnDHQEW6Q)
 - [블로그](https://teddylee777.github.io/)
